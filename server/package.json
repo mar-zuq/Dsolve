@@ -19,8 +19,7 @@
     "express-validator": "^7.0.1",
     "helmet": "^7.0.0",
     "morgan": "^1.10.0",
-    "@tensorflow/tfjs-node": "^4.10.0",
-    "google-maps-services-js": "^3.3.41"
+    "@googlemaps/google-maps-services-js": "^3.3.41"
   },
   "devDependencies": {
     "nodemon": "^3.0.1",
